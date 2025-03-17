@@ -72,5 +72,6 @@ Contributions are welcome! To contribute:
 
 ## Contact
 
-For any inquiries, please contact Akula Nikhila Reddy
+For any queries or collaboration, feel free to reach out to
+Akula Nikhila Reddy
 
