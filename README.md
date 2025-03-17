@@ -72,6 +72,8 @@ Contributions are welcome! To contribute:
 
 ## Contact
 
-For any queries or collaboration, feel free to reach out to
-Akula Nikhila Reddy
+For any queries or collaboration, feel free to reach out to Akula Nikhila Reddy
+
+Now, when someone clicks on **Akula Nikhila Reddy**, it will open their email client with your email address. Let me know if you need any more changes! 🚀
+
 
