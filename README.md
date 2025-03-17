@@ -70,3 +70,7 @@ Contributions are welcome! To contribute:
    ```
 5. **Open a Pull Request**: Navigate to the original repository and click on 'New Pull Request'.
 
+## Contact
+
+For any queries or collaboration, feel free to reach out to  
+[**Akula Nikhila Reddy**](mailto:nikhilareddy5005@gmail.com)
