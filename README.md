@@ -45,7 +45,6 @@ The Attendance Management System is designed to streamline and automate the proc
 - **Attendance Marking**:
   - Depending on the configuration, attendance can be marked via biometric devices, web check-ins, or mobile applications.
 
-*Note: Adjust the usage instructions to align with the actual functionalities and workflows of your project.*
 
 ## Contributing
 
